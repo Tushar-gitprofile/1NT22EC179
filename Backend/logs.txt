@@ -1,0 +1,6 @@
+[2025-08-07T06:43:04.491Z] POST /shorturls 201 - 3ms
+[2025-08-07T06:43:12.973Z] POST /shorturls 409 - 1ms
+[2025-08-07T06:43:35.570Z] POST /shorturls 201 - 1ms
+[2025-08-07T06:44:48.455Z] POST /shorturls 201 - 1ms
+[2025-08-07T06:45:08.930Z] GET /custom1 302 - 2ms
+[2025-08-07T06:45:32.309Z] GET /shorturls/custom1 200 - 1ms
